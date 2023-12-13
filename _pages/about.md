@@ -10,7 +10,7 @@ profile:
   image: cuongpa.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Cau Giay, Hanoi, Vietnam </p>
+    <p> Address: Cau Giay, Hanoi, Vietnam </p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
