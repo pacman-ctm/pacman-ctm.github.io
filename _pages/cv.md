@@ -1,5 +1,12 @@
 ---
-# layout: cv
+layout: page
+title: CV
+nav: true
+nav_order: 3
+newtab: true
+permalink: /assets/pdf/CV_PhamAnhCuong.pdf
+---
+<!-- # layout: cv
 # permalink: /cv/
 # title: cv
 # nav: true
@@ -7,10 +14,4 @@
 # cv_pdf: CV_PhamAnhCuong.pdf
 # # description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 # toc:
-#   sidebar: left
-
-layout: page
-title: CV
-newtab: true
-permalink: /assets/pdf/CV_PhamAnhCuong.pdf
----
+#   sidebar: left -->
