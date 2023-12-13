@@ -10,7 +10,7 @@
 #   sidebar: left
 
 layout: page
-title: More
+title: CV
 newtab: true
 permalink: /assets/pdf/CV_PhamAnhCuong.pdf
 ---
