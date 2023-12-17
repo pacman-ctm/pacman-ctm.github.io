@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 With strong background in Artificial Intelligence (AI) and true interest in Mathematics, his interests focus on **Mathematics for AI** and **Applications of AI**.
 
-He is also a recipient of the [2024 POSCO Asia Fellowship](https://www.postf.org/en/asia/purpose?ckattempt=1) for Master's study in Korean schools (focus on STEM majors) starting in 2024 Fall semester, because of that, he is still seeking a Master's opportunity to activate the fellowship.
+<!-- He is also a recipient of the [2024 POSCO Asia Fellowship](https://www.postf.org/en/asia/purpose?ckattempt=1) for Master's study in Korean schools (focus on STEM majors) starting in 2024 Fall semester, because of that, he is still seeking a Master's opportunity to activate the fellowship. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
