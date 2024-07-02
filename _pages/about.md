@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: BSc. in IT (honors) from UET-VNU, Data Scientist @ Viettel Networks 
+subtitle: BS. in IT (honors) from UET-VNU, incoming MS student at MBZUAI
 
 profile:
   align: right
