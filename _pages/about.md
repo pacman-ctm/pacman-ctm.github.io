@@ -16,15 +16,13 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Phạm Anh Cường** (or Anh-Cuong Pham, Cuong Pham) is a fresh graduate in Information Technology (honors program) from [VNU University of Engineering and Technology, Vietnam](https://uet.vnu.edu.vn/en/) with a High Distinction bachelor's degree from June 2023. Now, he is a Data Scientist at [Viettel Networks](), one of the largest telecommunication companies in Vietnam. Before working as a Data Scientist, he was a Student Research studying in Deep Learning at [DSKT Laboratory, UET-VNU](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/). His bachelor's thesis was about Image Captioning for Vietnamese context, under the supervision of [Assoc. Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and a huge support from [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en). Back to high school, he used to be a specialized student in Mathematics and participated in the 2019 Vietnam Mathematical Olympiad.
+**Phạm Anh Cường** (or Anh-Cuong Pham, Cuong Pham) is a fresh graduate from [VNU University of Engineering and Technology, Vietnam](https://uet.vnu.edu.vn/en/) with a High Distinction bachelor's degree in IT (honors) from June 2023. He had 2-year experience in AI as an AI Engineer at [GHTK]() and then a Data Scientist at [Viettel Networks]() in Vietnam. His bachelor's thesis was about Image Captioning for Vietnamese context, doing while he was in [DSKT Laboratory, UET-VNU](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/), under the supervision of [Assoc. Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and a huge support from [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en). Back to high school, he used to be a specialized student in Mathematics and participated in the 2019 Vietnam Mathematical Olympiad.
 
-With strong background in Artificial Intelligence (AI) and true interest in Mathematics, his interests focus on **Mathematics for AI** and **Applications of AI**.
-
-<!-- He is also a recipient of the [2024 POSCO Asia Fellowship](https://www.postf.org/en/asia/purpose?ckattempt=1) for Master's study in Korean schools (focus on STEM majors) starting in 2024 Fall semester, because of that, he is still seeking a Master's opportunity to activate the fellowship. -->
+With background in Artificial Intelligence (AI) and interest in Mathematics, his interests focus on **Mathematics for AI** and **Applications of AI**.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
