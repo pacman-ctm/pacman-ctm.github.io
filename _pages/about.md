@@ -3,14 +3,14 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: BS. in IT (honors) from UET-VNU, incoming MS student at MBZUAI
+subtitle: BS. in IT (honors) @ UET-VNU, incoming MS student @ MBZUAI
 
 profile:
   align: right
   image: cuongpa.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p> Address: Cau Giay, Hanoi, Vietnam </p>
+  #  <p> Address: Cau Giay, Hanoi, Vietnam </p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
@@ -20,9 +20,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Phạm Anh Cường** (or Anh-Cuong Pham, Cuong Pham) is a fresh graduate from [VNU University of Engineering and Technology, Vietnam](https://uet.vnu.edu.vn/en/) with a High Distinction bachelor's degree in IT (honors) from June 2023. He had 2-year experience in AI as an AI Engineer at [GHTK]() and then a Data Scientist at [Viettel Networks]() in Vietnam. His bachelor's thesis was about Image Captioning for Vietnamese context, doing while he was in [DSKT Laboratory, UET-VNU](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/), under the supervision of [Assoc. Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and a huge support from [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en). Back to high school, he used to be a specialized student in Mathematics and participated in the 2019 Vietnam Mathematical Olympiad.
+<!-- **Phạm Anh Cường** (or Anh-Cuong Pham, Cuong Pham) is a fresh graduate from [VNU University of Engineering and Technology, Vietnam](https://uet.vnu.edu.vn/en/) with a High Distinction bachelor's degree in IT (honors) from June 2023. He had 2-year experience in AI as an AI Engineer at [GHTK]() and then a Data Scientist at [Viettel Networks]() in Vietnam. His bachelor's thesis was about Image Captioning for Vietnamese context, doing while he was in [DSKT Laboratory, UET-VNU](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/), under the supervision of [Assoc. Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and a huge support from [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en). Back to high school, he used to be a specialized student in Mathematics and participated in the 2019 Vietnam Mathematical Olympiad. -->
 
-With background in Artificial Intelligence (AI) and interest in Mathematics, his interests focus on **Mathematics for AI** and **Applications of AI**.
+Hi, I am Cuong Pham (Phạm Anh Cường). I got my BS in IT (honors) from [VNU University of Engineering and Technology, Vietnam](https://uet.vnu.edu.vn/en/) in June 2023 and I will join [MBZUAI](https://mbzuai.ac.ae/) as a MS student in Machine Learning from August 2024.
+
+My 2 yoe includes two positions: AI Engineer at [GHTK](https://www.linkedin.com/company/giaohangtietkiem-vn/) and then Data Scientist at [Viettel Networks](https://www.linkedin.com/company/viettel-network/) in Vietnam. 
+
+I was also a student research intern at [DSKT Laboratory, UET-VNU](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/), under the supervision of [Assoc. Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and a huge support from [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en). 
+
+I have participated in the 2019 Vietnam Mathematical Olympiad since high school.
+
+With a background in Artificial Intelligence (AI) and an interest in Mathematics, my interests are **Mathematics for AI** and **Applications of AI**.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
