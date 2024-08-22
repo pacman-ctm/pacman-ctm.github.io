@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: BS. in IT (honors) @ UET-VNU, incoming MS student @ MBZUAI
+subtitle: MSc student in Machine Learning @ MBZUAI
 
 profile:
   align: right
