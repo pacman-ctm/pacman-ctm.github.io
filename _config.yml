@@ -97,7 +97,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: pacman_ctm
+instagram_id: # your instagram id
 facebook_id: anhcuong.pham.2511
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
@@ -164,7 +164,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
-  News:
+  news:
     defaults:
       layout: post
     output: true

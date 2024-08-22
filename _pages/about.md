@@ -14,7 +14,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-News: true  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- **Phạm Anh Cường** (or Anh-Cuong Pham, Cuong Pham) is a fresh graduate from [VNU University of Engineering and Technology, Vietnam](https://uet.vnu.edu.vn/en/) with a High Distinction bachelor's degree in IT (honors) from June 2023. He had 2-year experience in AI as an AI Engineer at [GHTK]() and then a Data Scientist at [Viettel Networks]() in Vietnam. His bachelor's thesis was about Image Captioning for Vietnamese context, doing while he was in [DSKT Laboratory, UET-VNU](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/), under the supervision of [Assoc. Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and a huge support from [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en). Back to high school, he used to be a specialized student in Mathematics and participated in the 2019 Vietnam Mathematical Olympiad. -->
 
-Hi, I am **Cuong Pham** (my full name in Vietnamese is **Phạm Anh Cường**). I am a first-year MSc student in Machine Learning at [MBZUAI](https://mbzuai.ac.ae/), and my initial supervisor is [Professor Samuel Horváth](https://sites.google.com/view/samuelhorvath). My interests are **Mathematics for AI** and **Applications of AI**.
+Hi, I am **Cuong Pham** (my full name in Vietnamese is **Phạm Anh Cường**). I am a first-year MSc student in Machine Learning at [MBZUAI](https://mbzuai.ac.ae/), and my initial supervisor is Professor [Samuel Horváth](https://sites.google.com/view/samuelhorvath). My interests are **Mathematics for AI** and **Applications of AI**.
 
 Before joining MBZUAI, I got my honors BSc in IT from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/) in 2023. During my undergraduate, I was a member of [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/), supervised by [Assoc. Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en). In industry, I used to work at [GHTK](https://www.linkedin.com/company/giaohangtietkiem-vn/) (as an AI Engineer) and then at [Viettel Networks](https://www.linkedin.com/company/viettel-network/) (as a Data Scientist).  
 
