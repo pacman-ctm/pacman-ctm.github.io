@@ -4,7 +4,7 @@ title: CV
 nav: true
 nav_order: 3
 newtab: true
-permalink: /assets/pdf/cv_cuong_oct24.pdf
+permalink: /assets/pdf/cv_cuong_24nov.pdf
 ---
 <!-- # layout: cv
 # permalink: /cv/
