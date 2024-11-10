@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Cuong Pham"
-description              : "MSc student in Machine Learning at MBZUAI"
+title                    : "Phạm Anh Cường"
+description              : "MSc student in Machine Learning at MBZUAI, currently working on Optimization on Machine Learning, also concern about Federated Learning"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Cuong Pham"
   avatar           : "images/cuongpa.jpg"
-  bio              : "MSc student in Machine Learning at MBZUAI"
+  bio              : "MBZUAI"
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
@@ -35,7 +35,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/anhcuong.pham.2511/"
+  facebook         : "anhcuong.pham.2511"
   foursquare       :
   github           : "pacman-ctm" # e.g., "github username"
   google_plus      :
