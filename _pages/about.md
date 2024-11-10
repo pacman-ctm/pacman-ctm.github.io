@@ -32,10 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *06.2023*: &nbsp;🎉🎉 I graduated with High Distinction degree in Information Technology (Honors Program) from VNU University of Engineering and Technology. 
 
-# 📝 Publications 
-- Anh-Cuong Pham, Van-Quang Nguyen, Thi-Hong Vuong, Quang-Thuy Ha, "KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain." arXiv preprint arXiv:2401.08100.
-- Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le, "Memory-Based Method using Prototype Augmentation for Continual Relation Extraction," 2022 RIVF International Conference on Computing and Communication Technologies (RIVF), Ho Chi Minh City, Vietnam, 2022.
-
+<!-- # 📝 Publications  -->
 <!-- ----- -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,6 +47,10 @@ My research interest includes neural machine translation and computer vision. I 
 </div> -->
 <!-- ------ -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+# 📝 Research Projects
+- **Anh-Cuong Pham**, Van-Quang Nguyen, Thi-Hong Vuong, Quang-Thuy Ha, "KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain." arXiv preprint arXiv:2401.08100.
+- Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le, "Memory-Based Method using Prototype Augmentation for Continual Relation Extraction," 2022 RIVF International Conference on Computing and Communication Technologies (RIVF), Ho Chi Minh City, Vietnam, 2022.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
