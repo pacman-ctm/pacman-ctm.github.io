@@ -46,7 +46,7 @@ Before joining MBZUAI, I got my honors BSc in IT from <a href="https://uet.vnu.e
 <!-- ------ -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 📝 Undergraduate Research Papers
+# 🧾 Undergraduate Research Papers
 - **Anh-Cuong Pham**, Van-Quang Nguyen, Thi-Hong Vuong, Quang-Thuy Ha, "KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain." arXiv preprint arXiv:2401.08100.
 - Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le, "Memory-Based Method using Prototype Augmentation for Continual Relation Extraction," 2022 RIVF International Conference on Computing and Communication Technologies (RIVF), Ho Chi Minh City, Vietnam, 2022.
 

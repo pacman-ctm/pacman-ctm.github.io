@@ -24,3 +24,7 @@ main:
   - title: "CV"
     url: "/pdf/cv_cuong_24nov.pdf"
     navigation: true
+
+  - title: "CV of Failures"
+    url: "/pdf/CV_Failures_Cuong.pdf"
+    navigation: true  
