@@ -67,3 +67,8 @@ Before joining MBZUAI, I got my honors BSc in IT from <a href="https://uet.vnu.e
 - *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corportation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
 - *09.2021 - 09.2024*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
 - *05.2022 - 08.2023*, R&D Engineer at [Giaohangtietkiem JSC](https://www.linkedin.com/company/giaohangtietkiem-vn/), Vietnam.
+
+# 🔍 References
+- Dr. Samuel Horvath, Assistant Professor of Machine Learning at MBZUAI (UAE) [Email](mailto:samuel.horvath@mbzuai.ac.ae) [Website](https://sites.google.com/view/samuelhorvath)
+- Dr. Van-Quang Nguyen, Researcher at RIKEN AIP & Tohoku University (Japan) [Email](mailto:quang@vision.is.tohoku.ac.jp) [Google Scholar](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en)
+- Dr. Quang-Thuy Ha, Associate Professor and Former Vice President at VNU-UET (Vietnam) [Email](mailto:thuyhq@vnu.edu.vn) [Website](https://uet.vnu.edu.vn/~thuyhq/)
