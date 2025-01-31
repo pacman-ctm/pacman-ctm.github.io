@@ -25,7 +25,7 @@ Before joining MBZUAI, I got my honors BSc in IT from <a href="https://uet.vnu.e
 
 
 # 🔥 News
-- *08.2024*: &nbsp;🎉🎉 I join MBZUAI as a Master's student in Machine Learning (with full scholarship), and my initial supervisor for my MSc is Dr. Samuel Horváth. 
+- *08.2024*: &nbsp;🎉🎉 I join MBZUAI as a Master's student in Machine Learning (with full scholarship), and my supervisor for my MSc is Dr. Samuel Horváth. 
 - *01.2024*: &nbsp;🎉🎉 Upload my first-author short paper about Image Captioning for Vietnamese context based on my bachelor's thesis to Arxiv (<a href="https://arxiv.org/abs/2401.08100">link</a>).
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *06.2023*: &nbsp;🎉🎉 I graduated with High Distinction degree in Information Technology (Honors Program) from VNU University of Engineering and Technology. 
