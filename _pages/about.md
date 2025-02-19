@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I am a first-year MSc student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, studying <strong>Optimization for Machine Learning</strong> under the supervision of <a href="https://sites.google.com/view/samuelhorvath">Dr. Samuel Horváth</a>. My research interests are <strong>Mathematics for AI</strong> and <strong>Applications of AI</strong>.
 
-Before joining MBZUAI, I got my honors BSc in IT from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Assoc. Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a>. I also have 2 years of experience as an R&D Engineer (in NLP) and then as a Data Scientist.
+Before joining MBZUAI, I got my honors BSc in IT from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Assoc. Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience as an R&D Engineer (in NLP) and then as a Data Scientist (with Vision tasks and Big Data tasks). Please see my [CV](/pdf/PhamAnhCuong_CV.pdf) for more information.
 
 For contact: My personal email is **phamanhcuongvna2511** at **gmail.com**, and my current student email is **cuong.pham** at **mbzuai.ac.ae**.
 
