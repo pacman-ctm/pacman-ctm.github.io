@@ -21,6 +21,8 @@ Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="htt
 
 Before joining MBZUAI, I got my honors BSc in IT from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Assoc. Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a>. I also have 2 years of experience as an R&D Engineer (in NLP) and then as a Data Scientist.
 
+For contact: My personal email is **phamanhcuongvna2511** at **gmail.com**, and my current student email is **cuong.pham** at **mbzuai.ac.ae**.
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
