@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Phạm Anh Cường"
-description              : "Currently working on Optimization for Machine Learning, also concern about Federated Learning"
+description              : "Working on Optimization for Machine Learning, also concerned about Federated Learning"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Cuong Pham"
   avatar           : "images/cuongpa.jpg"
-  bio              : "MSc student in Machine Learning at MBZUAI"
+  bio              : "MS student in Machine Learning at MBZUAI"
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
