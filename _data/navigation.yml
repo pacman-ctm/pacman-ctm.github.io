@@ -3,6 +3,18 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "CV"
+    url: "/pdf/cv.pdf"
+    navigation: true
+
+  - title: "CV of Failures"
+    url: "/pdf/cv_failures.pdf"
+    navigation: true  
+
+  - title: "Misc."
+    url: "/misc"
+
+
   # - title: "News"
   #   url: "/#-news"
 
@@ -20,11 +32,3 @@ main:
 
   # - title: "Internships"
   #   url: "/#-internships"
-
-  - title: "CV"
-    url: "/pdf/PhamAnhCuong_CV.pdf"
-    navigation: true
-
-  - title: "CV of Failures"
-    url: "/pdf/CV_Failures_Cuong.pdf"
-    navigation: true  
