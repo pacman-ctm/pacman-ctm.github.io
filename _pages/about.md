@@ -50,10 +50,13 @@ Before joining MBZUAI, I got my Honors BS in IT from <a href="https://uet.vnu.ed
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📝 Publications 
-`[P3]` Slavomir Hanzely, Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč. Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge.
-`[P2]` Quang P.M. Pham, Khoi T. N. Nguyen, Nhi H. Doan, **Cuong A. Pham**, Kentaro Inui, Dezhen Song. SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation [(Link)](https://arxiv.org/abs/2505.00831)
-`[P1]` **Anh-Cuong Pham**, Van-Quang Nguyen, Thi-Hong Vuong, Quang-Thuy Ha, "KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain." arXiv preprint arXiv:2401.08100. [(Link)](https://arxiv.org/abs/2401.08100)
-`[C1]` Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le, "Memory-Based Method using Prototype Augmentation for Continual Relation Extraction," 2022 RIVF International Conference on Computing and Communication Technologies (RIVF), Ho Chi Minh City, Vietnam, 2022. [(Link)](https://ieeexplore.ieee.org/abstract/document/10013819/)
+- `[P3]` Slavomir Hanzely, Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč. Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge.
+
+- `[P2]` Quang P.M. Pham, Khoi T. N. Nguyen, Nhi H. Doan, **Cuong A. Pham**, Kentaro Inui, Dezhen Song. SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation [(Link)](https://arxiv.org/abs/2505.00831)
+
+- `[P1]` **Anh-Cuong Pham**, Van-Quang Nguyen, Thi-Hong Vuong, Quang-Thuy Ha, "KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain." arXiv preprint arXiv:2401.08100. [(Link)](https://arxiv.org/abs/2401.08100)
+
+- `[C1]` Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le, "Memory-Based Method using Prototype Augmentation for Continual Relation Extraction," 2022 RIVF International Conference on Computing and Communication Technologies (RIVF), Ho Chi Minh City, Vietnam, 2022. [(Link)](https://ieeexplore.ieee.org/abstract/document/10013819/)
 
 # 🎖 Honors
 - *06.2024*, Fully-funded Master's scholarship at MBZUAI. 
