@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Phạm Anh Cường"
-description              : "Working on Optimization for Machine Learning, also concerned about Federated Learning"
+description              : "Working on Optimization and Federated Learning"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -35,7 +35,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "anhcuong.pham.2511"
+  facebook         : # "anhcuong.pham.2511"
   foursquare       :
   github           : "pacman-ctm" # e.g., "github username"
   google_plus      :

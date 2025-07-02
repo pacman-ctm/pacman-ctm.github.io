@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I am a first-year MS student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, working on <strong>Optimization for Machine Learning</strong> and <strong>Federated Learning</strong>, supervised by <a href="https://sites.google.com/view/samuelhorvath">Prof. Samuel Horváth</a>. My research interests are <strong>Mathematics for AI</strong> and somewhat <strong>Applications of AI</strong>.
+Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I am a MS student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, currently working on <strong>Optimization for Machine Learning</strong> and <strong>Federated Learning</strong>, supervised by <a href="https://sites.google.com/view/samuelhorvath">Prof. Samuel Horváth</a>. My research interest lies on <strong>Optimization in different settings</strong>.
 
-Before joining MBZUAI, I got my Honors BS in IT from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Assoc. Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience as an R&D Engineer (in NLP) and then as a Data Scientist (with Vision tasks and Big Data tasks). Please see my [CV](/pdf/cv.pdf) for more information.
+Before joining MBZUAI, I got my Honors BS in IT from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Assoc. Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience in AI (with Vision and Data Science tasks). Please see my [CV](/pdf/cv.pdf) for more information.
 
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my current student email is **cuong.pham** at **mbzuai.ac.ae**.
 
@@ -61,7 +61,6 @@ Quang P.M. Pham, Khoi T. N. Nguyen, Nhi H. Doan, **Cuong A. Pham**, Kentaro Inui
 - [P1] [**KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain**](https://arxiv.org/abs/2401.08100) <br>
 **Anh-Cuong Pham**, Van-Quang Nguyen, Thi-Hong Vuong, Quang-Thuy Ha <br>
 (preprint '24, short version of Bachelor's thesis)
-<!-- arXiv preprint arXiv:2401.08100 -->
 
 - [C1] [**Memory-Based Method using Prototype Augmentation for Continual Relation Extraction**](https://ieeexplore.ieee.org/abstract/document/10013819/)<br>
 Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
@@ -83,7 +82,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 # 💻 Professional Experience
 - *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corportation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
 - *09.2021 - 09.2024*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
-- *05.2022 - 08.2023*, R&D Engineer at [Giaohangtietkiem JSC](https://www.linkedin.com/company/giaohangtietkiem-vn/), Vietnam.
+- *05.2022 - 08.2023*, R&D Engineer at [GHTK JSC](https://www.linkedin.com/company/giaohangtietkiem-vn/), Vietnam.
 
 # 🔍 References
 - **Dr. Samuel Horvath**, Assistant Professor of Machine Learning at MBZUAI (UAE) [[Email]](mailto:samuel.horvath@mbzuai.ac.ae) [[Website]](https://sites.google.com/view/samuelhorvath)
