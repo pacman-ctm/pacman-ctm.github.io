@@ -3,7 +3,7 @@ layout: page
 title: Misc.
 # nav: true
 # nav_order: 3
-# newtab: true
+newtab: false
 permalink: /misc
 ---
 
