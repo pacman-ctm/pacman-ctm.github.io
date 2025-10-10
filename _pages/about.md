@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I am a MS student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, supervised by <a href="https://sites.google.com/view/samuelhorvath">Prof. Samuel Horváth</a>. My research interest lies on <strong>Optimization in different settings</strong>, for more detail, I am working on <strong>Parameter-free fine-tuning (PEFT)</strong> and <strong>SGD Optimization</strong>.
+Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I am a MS student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, supervised by <a href="https://sites.google.com/view/samuelhorvath">Prof. Samuel Horváth</a>. My research interest lies on <strong>Optimization in different settings</strong>, for more detail, I am working mainly on <strong>Effective Training/Fine-tuning</strong> in <strong>Continual Learning & Federated Learning</strong>, and partially on <strong>SGD Optimization</strong>.
+
 
 Before joining MBZUAI, I got my Honors BS in IT from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience in AI (with Vision and Data Science tasks). Please see my [CV](/pdf/cv.pdf) for more information.
 
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my current student email is **cuong.pham** at **mbzuai.ac.ae**.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
 - *08.2024*: &nbsp; I join MBZUAI as a Master's student in Machine Learning (with full scholarship), and my supervisor for my MS is Prof. Samuel Horváth. 
-- *01.2024*: &nbsp; Upload my first-author short paper about Image Captioning for Vietnamese context based on my bachelor's thesis to Arxiv (<a href="https://arxiv.org/abs/2401.08100">link</a>).
+<!-- - *01.2024*: &nbsp; Upload my first-author short paper about Image Captioning for Vietnamese context based on my bachelor's thesis to Arxiv (<a href="https://arxiv.org/abs/2401.08100">link</a>). -->
 - *06.2023*: &nbsp; I graduated with High Distinction degree in Information Technology (Honors Program) from VNU University of Engineering and Technology. 
 <!-- 🎉🎉 -->
 
@@ -50,19 +50,19 @@ Before joining MBZUAI, I got my Honors BS in IT from <a href="https://uet.vnu.ed
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📝 Publications 
-- [P4] [**Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge**](https://arxiv.org/pdf/2508.17288).<br>
+- [P.4] [**Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge**](https://arxiv.org/abs/2508.17288).<br>
 Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč, Slavomír Hanzely.<br>
 ('25, under review)
 
-- [P3] [**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**](https://arxiv.org/abs/2505.00831) <br>
-Quang P.M. Pham, Khoi T. N. Nguyen, Nhi H. Doan, **Cuong A. Pham**, Kentaro Inui, Dezhen Song <br> 
+- [P.3] [**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**](https://arxiv.org/abs/2505.00831) <br>
+Quang P.M. Pham, Khoi T. N. Nguyen, Nhi H. Doan, **Cuong A. Pham**, Qinbo Sun, Weimin Qi, Kentaro Inui, Dezhen Song <br> 
 (preprint '25, under review)
 
-- [P2] [**KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain**](https://arxiv.org/abs/2401.08100) <br>
+- [P.2] [**KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain**](https://arxiv.org/abs/2401.08100) <br>
 **Anh-Cuong Pham**, Van-Quang Nguyen, Thi-Hong Vuong, Quang-Thuy Ha <br>
 (preprint '24, short version of Bachelor's thesis)
 
-- [C1] [**Memory-Based Method using Prototype Augmentation for Continual Relation Extraction**](https://ieeexplore.ieee.org/abstract/document/10013819/)<br>
+- [C.1] [**Memory-Based Method using Prototype Augmentation for Continual Relation Extraction**](https://ieeexplore.ieee.org/abstract/document/10013819/)<br>
 Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 (IEEE RIVF '22)
 
@@ -80,6 +80,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Professional Experience
+- *10.2024 - current*, Graduate Research Assistant at [MBZUAI](https://mbzuai.ac.ae/), UAE.
 - *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corportation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
 - *09.2021 - 09.2024*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
 - *05.2022 - 08.2023*, R&D Engineer at [GHTK JSC](https://www.linkedin.com/company/giaohangtietkiem-vn/), Vietnam.
