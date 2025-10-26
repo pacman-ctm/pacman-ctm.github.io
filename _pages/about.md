@@ -91,9 +91,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 - **Dr. Quang-Thuy Ha**, Associate Professor and Former Vice President at VNU-UET (Vietnam) [[Email]](mailto:thuyhq@vnu.edu.vn) [[Website]](https://uet.vnu.edu.vn/~thuyhq/)
 
 
-<div align="center" style="transform: scale(0.4); transform-origin: top center;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=d6uRUBCk1WnZoZmOy0g4RyPNManqNTP3GXfRveHzvL8&cl=ffffff&w=a"></script>
-</div>
+
 
 
 
