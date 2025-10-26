@@ -81,7 +81,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 
 # 💻 Professional Experience
 - *10.2024 - current*, Graduate Research Assistant at [MBZUAI](https://mbzuai.ac.ae/), UAE.
-- *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corportation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
+- *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corporation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
 - *09.2021 - 09.2024*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
 - *05.2022 - 08.2023*, R&D Engineer at [GHTK JSC](https://www.linkedin.com/company/giaohangtietkiem-vn/), Vietnam.
 

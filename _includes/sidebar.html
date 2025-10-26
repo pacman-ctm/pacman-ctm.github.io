@@ -1,4 +1,4 @@
-<!-- {% if page.author_profile or layout.author_profile or page.sidebar %}
+{% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
@@ -12,33 +12,7 @@
   {% endif %}
   </div>
 
-  <div align="center" style="transform: scale(1.0); transform-origin: top center;">
+  <div align="center"">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=d6uRUBCk1WnZoZmOy0g4RyPNManqNTP3GXfRveHzvL8&cl=ffffff&w=a"></script>
-  </div>
-{% endif %} -->
-
-{% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-    {% if page.author_profile or layout.author_profile %}
-      {% include author-profile.html %}
-    {% endif %}
-
-    {% if page.sidebar %}
-      {% for s in page.sidebar %}
-        {% if s.image %}
-          <img src="{{ s.image }}" alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-        {% endif %}
-        {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-        {% if s.text %}{{ s.text | markdownify }}{% endif %}
-      {% endfor %}
-    {% endif %}
-
-    <!-- ClustrMaps (placed INSIDE sidebar so it's sticky and sized correctly) -->
-    <div class="clustrmaps" style="text-align:center; transform: scale(1.0); transform-origin: top center;">
-      <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=d6uRUBCk1WnZoZmOy0g4RyPNManqNTP3GXfRveHzvL8&cl=ffffff&w=a"></script>
-      <noscript>
-        <a href="https://clustrmaps.com/site/your-map">View visitor map</a>
-      </noscript>
-    </div>
   </div>
 {% endif %}
