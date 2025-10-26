@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
@@ -87,6 +87,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 
 # 🔍 References
 - **Dr. Samuel Horvath**, Assistant Professor of Machine Learning at MBZUAI (UAE) [[Email]](mailto:samuel.horvath@mbzuai.ac.ae) [[Website]](https://sites.google.com/view/samuelhorvath)
+- **Dr. Praneeth Vepakomma**, Assistant Professor of Machine Learning at MBZUAI (UAE) and Visiting Professor at MIT IDSS [[Email]](mailto:vepakom@mit.edu) [[Website]](https://sites.mit.edu/praneeth/)
 - **Dr. Van-Quang Nguyen**, Researcher at RIKEN AIP & Tohoku University (Japan) [[Email]](mailto:quang@vision.is.tohoku.ac.jp) [[Google Scholar]](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en)
 - **Dr. Quang-Thuy Ha**, Associate Professor and Former Vice President at VNU-UET (Vietnam) [[Email]](mailto:thuyhq@vnu.edu.vn) [[Website]](https://uet.vnu.edu.vn/~thuyhq/)
 
