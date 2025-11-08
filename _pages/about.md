@@ -52,7 +52,7 @@ Before joining MBZUAI, I got my Honors BS in IT from <a href="https://uet.vnu.ed
 # 📝 Publications 
 - [P.4] [**Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge**](https://arxiv.org/abs/2508.17288).<br>
 Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč, Slavomír Hanzely.<br>
-('25, under review)
+(preprint '25, under review)
 
 - [P.3] [**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**](https://arxiv.org/abs/2505.00831) <br>
 Quang P.M. Pham, Khoi T. N. Nguyen, Nhi H. Doan, **Cuong A. Pham**, Qinbo Sun, Weimin Qi, Kentaro Inui, Dezhen Song <br> 
@@ -82,14 +82,15 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 # 💻 Professional Experience
 - *10.2024 - current*, Graduate Research Assistant at [MBZUAI](https://mbzuai.ac.ae/), UAE.
 - *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corporation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
-- *09.2021 - 09.2024*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
+- *09.2021 - 09.2023*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
 - *05.2022 - 08.2023*, R&D Engineer at [GHTK JSC](https://www.linkedin.com/company/giaohangtietkiem-vn/), Vietnam.
 
 # 🔍 References
 - **Dr. Samuel Horvath**, Assistant Professor of Machine Learning at MBZUAI (UAE) [[Email]](mailto:samuel.horvath@mbzuai.ac.ae) [[Website]](https://sites.google.com/view/samuelhorvath)
 - **Dr. Praneeth Vepakomma**, Assistant Professor of Machine Learning at MBZUAI (UAE) and Visiting Professor at MIT IDSS [[Email]](mailto:vepakom@mit.edu) [[Website]](https://sites.mit.edu/praneeth/)
-- **Dr. Van-Quang Nguyen**, Researcher at RIKEN AIP & Tohoku University (Japan) [[Email]](mailto:quang@vision.is.tohoku.ac.jp) [[Google Scholar]](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en)
 - **Dr. Quang-Thuy Ha**, Associate Professor and Former Vice President at VNU-UET (Vietnam) [[Email]](mailto:thuyhq@vnu.edu.vn) [[Website]](https://uet.vnu.edu.vn/~thuyhq/)
+- **Dr. Van-Quang Nguyen**, Researcher at RIKEN AIP & Tohoku University (Japan) [[Email]](mailto:quang@vision.is.tohoku.ac.jp) [[Google Scholar]](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en)
+
 
 
 

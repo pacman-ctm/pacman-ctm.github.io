@@ -27,7 +27,7 @@ author:
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CQ0QQh0AAAAJ" # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=CQ0QQh0AAAAJ&view_op=list_works&sortby=pubdate" # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "cuong.pham@mbzuai.ac.ae"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

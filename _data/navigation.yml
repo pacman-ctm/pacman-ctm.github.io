@@ -13,6 +13,7 @@ main:
 
   - title: "Misc."
     url: "/misc"
+    navigation: false
 
 
   # - title: "News"
