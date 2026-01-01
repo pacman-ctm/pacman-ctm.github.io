@@ -17,17 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I am a MS student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, supervised by <a href="https://sites.google.com/view/samuelhorvath">Prof. Samuel Horváth</a>. My research interest lies on <strong>Optimization in different settings</strong>, for more detail, I am working mainly on <strong>Effective Training/Fine-tuning</strong> in <strong>Continual Learning & Federated Learning</strong>, and partially on <strong>SGD Optimization</strong>.
+Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I am a MS student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, supervised by <a href="https://sites.google.com/view/samuelhorvath">Prof. Samuel Horváth</a>. My research interest lies on **Optimization** in general and **Efficient Deep Learning** in particular, for more detail, I am working mainly on **Effective Training/Fine-tuning** in **Continual Learning & Federated Learning**, and partially on **SGD Optimization**.
 
 
-Before joining MBZUAI, I got my Honors BS in IT from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience in AI (with Vision and Data Science tasks). Please see my [CV](/pdf/cv.pdf) for more information.
+Before joining MBZUAI, I got my Honors BS in IT from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience in AI (with Vision and Data Science tasks). 
+
+Please see my [**CV**](/pdf/cv.pdf) for more information.
 
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my current student email is **cuong.pham** at **mbzuai.ac.ae**.
 
 
 
 # 🔥 News
-- *08.2024*: &nbsp; I join MBZUAI as a Master's student in Machine Learning (with full scholarship), and my supervisor for my MS is Prof. Samuel Horváth. 
+- *08.2024*: &nbsp; I joined MBZUAI as a Master's student in Machine Learning (with full scholarship), and my supervisor for my MS is Prof. Samuel Horváth. 
 <!-- - *01.2024*: &nbsp; Upload my first-author short paper about Image Captioning for Vietnamese context based on my bachelor's thesis to Arxiv (<a href="https://arxiv.org/abs/2401.08100">link</a>). -->
 - *06.2023*: &nbsp; I graduated with High Distinction degree in Information Technology (Honors Program) from VNU University of Engineering and Technology. 
 <!-- 🎉🎉 -->
@@ -50,13 +52,17 @@ Before joining MBZUAI, I got my Honors BS in IT from <a href="https://uet.vnu.ed
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📝 Publications 
+- [P.5] [**TBD**]().<br>
+**Cuong Anh Pham**, Praneeth Vepakomma, Samuel Horváth.<br>
+('25, under-review draft)
+
 - [P.4] [**Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge**](https://arxiv.org/abs/2508.17288).<br>
 Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč, Slavomír Hanzely.<br>
-(preprint '25, under review)
+(preprint '25, under-review draft)
 
 - [P.3] [**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**](https://arxiv.org/abs/2505.00831) <br>
 Quang P.M. Pham, Khoi T. N. Nguyen, Nhi H. Doan, **Cuong A. Pham**, Qinbo Sun, Weimin Qi, Kentaro Inui, Dezhen Song <br> 
-(preprint '25, under review)
+(preprint '25, under-review draft)
 
 - [P.2] [**KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain**](https://arxiv.org/abs/2401.08100) <br>
 **Anh-Cuong Pham**, Van-Quang Nguyen, Thi-Hong Vuong, Quang-Thuy Ha <br>
@@ -72,8 +78,8 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 - *01.2019*, Participation in the Vietnam Mathematical Olympiad 2019 (representing Nghe An province). 
 
 # 📖 Education
-- *08.2024 - 2026 (expected)*, MSc in Machine Learning, Mohamed bin Zayed University of Artificial Intelligence (UAE). 
-- *08.2019 - 06.2023*, BSc in Information Technology (Honors Program), VNU University of Engineering and Technology (Vietnam). 
+- *08.2024 - 2026 (expected)*, MS in Machine Learning, Mohamed bin Zayed University of Artificial Intelligence (UAE). 
+- *08.2019 - 06.2023*, BS in Information Technology (Honors Program), VNU University of Engineering and Technology (Vietnam). 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
