@@ -17,7 +17,7 @@ permalink: /pdf-viewer.html
   }
 </script>
 
-<div style="text-align: center; padding: 50px;">
+<!-- <div style="text-align: center; padding: 50px;">
   <p>Loading PDF...</p>
   <p>If the download doesn't start, <a href="javascript:history.back()">click here to go back</a>.</p>
-</div>
+</div> -->

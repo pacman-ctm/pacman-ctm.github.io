@@ -24,7 +24,7 @@ My research interest lies on **Optimization** in general and **Efficient Deep Le
 
 Before joining MBZUAI, I got my Honors BS in Information Technology from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience in AI (with NLP, then CV and Data Science tasks). 
 
-Please take a look at my [**CV**](/pdf/cv.pdf) for more information.
+Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more information.
 
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my current student email is **cuong.pham** at **mbzuai.ac.ae**.
 
