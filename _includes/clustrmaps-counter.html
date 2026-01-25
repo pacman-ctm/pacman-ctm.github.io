@@ -4,3 +4,22 @@
     src="https://clustrmaps.com/map_v2.js?d=d6uRUBCk1WnZoZmOy0g4RyPNManqNTP3GXfRveHzvL8&cl=ffffff&w=a">
   </script>
 </div>
+
+<!-- Track PDF clicks -->
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+    // Find all PDF links
+    var pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
+    
+    pdfLinks.forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        // Fire ClustrMaps counter
+        if (typeof clustrmaps !== 'undefined') {
+          // Trigger the counter (this simulates a page view)
+          var img = new Image();
+          img.src = 'https://clustrmaps.com/map_v2.js?d=d6uRUBCk1WnZoZmOy0g4RyPNManqNTP3GXfRveHzvL8&cl=ffffff&w=a';
+        }
+      });
+    });
+  });
+</script>

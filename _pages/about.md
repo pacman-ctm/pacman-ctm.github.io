@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I am a MS student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, supervised by <a href="https://sites.google.com/view/samuelhorvath">Prof. Samuel Horváth</a>. My research interest lies on **Optimization** in general and **Efficient Deep Learning** in particular, for more detail, I am working mainly on **Effective Training/Fine-tuning** in **Continual Learning & Federated Learning**, and partially on **SGD Optimization**.
+Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I am a MS student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, where I am fortunate to be supervised by <a href="https://sites.google.com/view/samuelhorvath">Prof. Samuel Horváth</a> and informally co-supervised by <a href="https://sites.mit.edu/praneeth/">Prof. Praneeth Vepakomma</a>. 
+
+My research interest lies on **Optimization** in general and **Efficient Deep Learning** in particular, for more detail, I am working mainly on **Effective Training/Fine-Tuning** in **Continual Learning & Federated Learning**, and partially on **SGD Optimization**.
 
 
-Before joining MBZUAI, I got my Honors BS in IT from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience in AI (with Vision and Data Science tasks). 
+Before joining MBZUAI, I got my Honors BS in Information Technology from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience in AI (with NLP, then CV and Data Science tasks). 
 
-Please see my [**CV**](/pdf/cv.pdf) for more information.
+Please take a look at my [**CV**](/pdf/cv.pdf) for more information.
 
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my current student email is **cuong.pham** at **mbzuai.ac.ae**.
 
@@ -52,7 +54,7 @@ Please see my [**CV**](/pdf/cv.pdf) for more information.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📝 Publications 
-- [P.5] [**TBD**]().<br>
+- [C.5] [**TBD**]().<br>
 **Cuong Anh Pham**, Praneeth Vepakomma, Samuel Horváth.<br>
 ('25, under-review draft)
 
@@ -75,7 +77,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 # 🎖 Honors
 - *06.2024*, Fully-funded Master's scholarship at MBZUAI. 
 - *2021-2023*, Third Prizes (#5 Linear Algebra 2021, #6 Linear Algebra 2022, #5 Linear Algebra 2023) in VNU-UET Mathematics Olympiad. I was also #7 Calculus in the 2022 competition, but there were only prizes for top 6.
-- *01.2019*, Participation in the Vietnam Mathematical Olympiad 2019 (representing Nghe An province). 
+- *01.2019*, Participation in the national Vietnam Mathematical Olympiad 2019 (representing Nghe An province, and was ranked ~#250/600 national). 
 
 # 📖 Education
 - *08.2024 - 2026 (expected)*, MS in Machine Learning, Mohamed bin Zayed University of Artificial Intelligence (UAE). 
@@ -94,7 +96,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 # 🔍 References
 - **Dr. Samuel Horvath**, Assistant Professor of Machine Learning at MBZUAI (UAE) [[Email]](mailto:samuel.horvath@mbzuai.ac.ae) [[Website]](https://sites.google.com/view/samuelhorvath)
 - **Dr. Praneeth Vepakomma**, Assistant Professor of Machine Learning at MBZUAI (UAE) and Visiting Professor at MIT IDSS [[Email]](mailto:vepakom@mit.edu) [[Website]](https://sites.mit.edu/praneeth/)
-- **Dr. Quang-Thuy Ha**, Associate Professor and Former Vice President at VNU-UET (Vietnam) [[Email]](mailto:thuyhq@vnu.edu.vn) [[Website]](https://uet.vnu.edu.vn/~thuyhq/)
+- **Dr. Quang-Thuy Ha**, Associate Professor and Former Vice President at VNU-UET (Vietnam) [[Email]](mailto:thuyhq@vnu.edu.vn) [[Google Scholar]](https://scholar.google.com/citations?user=grsLl2wAAAAJ&hl=en)
 - **Dr. Van-Quang Nguyen**, Researcher at RIKEN AIP & Tohoku University (Japan) [[Email]](mailto:quang@vision.is.tohoku.ac.jp) [[Google Scholar]](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en)
 
 
