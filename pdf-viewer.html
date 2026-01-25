@@ -1,0 +1,23 @@
+---
+layout: default
+title: PDF Viewer
+---
+<script type="text/javascript">
+  // Get the PDF filename from URL parameter
+  const urlParams = new URLSearchParams(window.location.search);
+  const pdfFile = urlParams.get('file');
+  
+  if (pdfFile) {
+    // Redirect to the actual PDF after a short delay to ensure counter fires
+    setTimeout(function() {
+      window.location.href = "{{ site.baseurl }}/pdf/" + pdfFile;
+    }, 100);
+  } else {
+    window.location.href = "{{ site.baseurl }}/";
+  }
+</script>
+
+<div style="text-align: center; padding: 50px;">
+  <p>Loading PDF...</p>
+  <p>If the download doesn't start, <a href="#" onclick="window.history.back();">click here to go back</a>.</p>
+</div>
