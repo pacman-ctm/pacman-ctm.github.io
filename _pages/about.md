@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I am a MS student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, where I am fortunate to be supervised by <a href="https://sites.google.com/view/samuelhorvath">Prof. Samuel Horváth</a> and informally co-supervised by <a href="https://sites.mit.edu/praneeth/">Prof. Praneeth Vepakomma</a>. 
 
-My research interest lies on **Optimization** in general and **Efficient Deep Learning** in particular, for more detail, I am working mainly on **Effective Training/Fine-Tuning** in **Continual Learning & Federated Learning**, and partially on **SGD Optimization**.
+My research interest lies on **Optimization** in general and **Efficient Deep Learning** in particular, for more detail, I am working mainly on **Efficient Training/Fine-Tuning** in **Continual Learning & Federated Learning**, and partially on **SGD Optimization**.
 
 
 Before joining MBZUAI, I got my Honors BS in Information Technology from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience in AI (with NLP, then CV and Data Science tasks). 
@@ -56,7 +56,7 @@ Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more informa
 # 📝 Publications 
 - [C.5] [**TBD**]().<br>
 **Cuong Anh Pham**, Praneeth Vepakomma, Samuel Horváth.<br>
-('25, under-review draft)
+(CPAL '26)
 
 - [P.4] [**Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge**](https://arxiv.org/abs/2508.17288).<br>
 Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč, Slavomír Hanzely.<br>
