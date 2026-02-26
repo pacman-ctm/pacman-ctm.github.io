@@ -54,9 +54,9 @@ Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more informa
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📝 Publications 
-- [C.5] [**TBD**]().<br>
+- [C.5] [**Learning in the Null Space: Small Singular Values for Continual Learning**](https://arxiv.org/abs/2602.21919).<br>
 **Cuong Anh Pham**, Praneeth Vepakomma, Samuel Horváth.<br>
-(CPAL '26)
+(CPAL '26, <font color="red"><b>Oral Presentation</b></font>)
 
 - [P.4] [**Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge**](https://arxiv.org/abs/2508.17288).<br>
 Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč, Slavomír Hanzely.<br>
@@ -97,7 +97,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 - **Dr. Samuel Horvath**, Assistant Professor of Machine Learning at MBZUAI (UAE) [[Email]](mailto:samuel.horvath@mbzuai.ac.ae) [[Website]](https://sites.google.com/view/samuelhorvath)
 - **Dr. Praneeth Vepakomma**, Assistant Professor of Machine Learning at MBZUAI (UAE) and Visiting Professor at MIT IDSS [[Email]](mailto:vepakom@mit.edu) [[Website]](https://sites.mit.edu/praneeth/)
 - **Dr. Quang-Thuy Ha**, Associate Professor and Former Vice President at VNU-UET (Vietnam) [[Email]](mailto:thuyhq@vnu.edu.vn) [[Google Scholar]](https://scholar.google.com/citations?user=grsLl2wAAAAJ&hl=en)
-- **Dr. Van-Quang Nguyen**, Researcher at RIKEN AIP & Tohoku University (Japan) [[Email]](mailto:quang@vision.is.tohoku.ac.jp) [[Google Scholar]](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en)
+- **Dr. Van-Quang Nguyen**, Researcher at RIKEN AIP & Tohoku University (Japan) [[Email]](mailto:quang@vision.is.tohoku.ac.jp) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=qR180McAAAAJ)
 
 
 
