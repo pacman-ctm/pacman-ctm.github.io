@@ -24,13 +24,17 @@ My research interest lies on **Optimization** in general and **Efficient Deep Le
 
 Before joining MBZUAI, I got my Honors BS in Information Technology from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience in AI (with NLP, then CV and Data Science tasks). 
 
-Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more information.
+Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more information. 
+
+<font color="blue"><b>I am actively looking for a PhD position or RA/RE positions this year.</b></font>
 
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my current student email is **cuong.pham** at **mbzuai.ac.ae**.
 
 
 
 # 🔥 News
+- *04.2026*: &nbsp; I successfully defended my MS Thesis (Pass with minor revisions) at MBZUAI. Many thanks to my supervisors: [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath), [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth), and internal committee [Prof. Raul Astudillo](https://raulastudillo.netlify.app/).
+- *03.2026*: &nbsp; I attended [CPAL 2026](https://cpal.cc/) in Tübingen, Germany to present the poster and gave an oral presentation for my paper [*Learning in the Null Space: Small Singular Values for Continual Learning*](https://openreview.net/forum?id=ZFNMp3Zuo7#discussion). 
 - *08.2024*: &nbsp; I joined MBZUAI as a Master's student in Machine Learning (with full scholarship), and my supervisor for my MS is Prof. Samuel Horváth. 
 <!-- - *01.2024*: &nbsp; Upload my first-author short paper about Image Captioning for Vietnamese context based on my bachelor's thesis to Arxiv (<a href="https://arxiv.org/abs/2401.08100">link</a>). -->
 - *06.2023*: &nbsp; I graduated with High Distinction degree in Information Technology (Honors Program) from VNU University of Engineering and Technology. 
@@ -56,7 +60,7 @@ Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more informa
 # 📝 Publications 
 - [C.5] [**Learning in the Null Space: Small Singular Values for Continual Learning**](https://arxiv.org/abs/2602.21919).<br>
 **Cuong Anh Pham**, Praneeth Vepakomma, Samuel Horváth.<br>
-(CPAL '26, <font color="red"><b>Oral Presentation</b></font>)
+(CPAL '26, <font color="red"><b>Oral Presentation</b></font>)  &emsp; [[OpenReview]](https://openreview.net/forum?id=ZFNMp3Zuo7) [[Poster]](/pdf-viewer.html?file=cpal26/cpal26_poster.pdf) [[Slides]](/pdf-viewer.html?file=cpal26/cpal26_slides.pdf)
 
 - [P.4] [**Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge**](https://arxiv.org/abs/2508.17288).<br>
 Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč, Slavomír Hanzely.<br>
@@ -75,12 +79,13 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 (IEEE RIVF '22)
 
 # 🎖 Honors
+
 - *06.2024*, Fully-funded Master's scholarship at MBZUAI. 
 - *2021-2023*, Third Prizes (#5 Linear Algebra 2021, #6 Linear Algebra 2022, #5 Linear Algebra 2023) in VNU-UET Mathematics Olympiad. I was also #7 Calculus in the 2022 competition, but there were only prizes for top 6.
 - *01.2019*, Participation in the national Vietnam Mathematical Olympiad 2019 (representing Nghe An province, and was ranked ~#250/600 national). 
 
 # 📖 Education
-- *08.2024 - 2026 (expected)*, MS in Machine Learning, Mohamed bin Zayed University of Artificial Intelligence (UAE). 
+- *08.2024 - 05.2026*, MS in Machine Learning, Mohamed bin Zayed University of Artificial Intelligence (UAE). 
 - *08.2019 - 06.2023*, BS in Information Technology (Honors Program), VNU University of Engineering and Technology (Vietnam). 
 
 <!-- # 💬 Invited Talks
