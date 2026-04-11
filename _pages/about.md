@@ -26,7 +26,7 @@ Before joining MBZUAI, I got my Honors BS in Information Technology from <a href
 
 Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more information. 
 
-<font color="blue"><b>I am actively looking for an RA/RE position this year and preparing for 2027 PhD applications.</b></font>
+<font color="blue"><b>I am actively looking for an RA/RE position in Continual Learning/Optimization/Efficient Deep Learning this year, and preparing for 2027 PhD applications.</b></font>
 
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my MBZUAI email is **cuong.pham** at **mbzuai.ac.ae**.
 
