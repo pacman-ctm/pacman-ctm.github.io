@@ -17,27 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am <strong>Cuong Pham</strong> (my full name in Vietnamese is <a href="https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate"><strong>Phạm Anh Cường</strong></a>). I obtain my MS in Machine Learning in May 2026 at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, where I am fortunate to be supervised by <a href="https://sites.google.com/view/samuelhorvath">Prof. Samuel Horváth</a> and informally co-supervised by <a href="https://sites.mit.edu/praneeth/">Prof. Praneeth Vepakomma</a>. 
+Hi, I am <strong>Cuong Pham</strong> (Vietnamese: [Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate)). I obtained my MS in Machine Learning at [MBZUAI](https://mbzuai.ac.ae/), where I worked with [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 
-My research interest lies on **Optimization** in general and **Efficient Deep Learning** in particular. During my MS, I worked mainly on **Efficient Training/Fine-Tuning** in **Continual Learning & Federated Learning**, and partially on **SGD Optimization**.
+My research focuses on **optimization** and **efficiency** for deep learning. In particular, my interests span on continual learning, parameter-efficient fine-tuning of LLMs, collaborative/federated learning, optimization. 
 
+During my MS, my work primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates. Before joining MBZUAI, I got my Honors BS in Information Technology from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/) in 2023, where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. 
 
-Before joining MBZUAI, I got my Honors BS in Information Technology from <a href="https://uet.vnu.edu.vn/en/">VNU-UET, Vietnam</a> in 2023, where I was supervised by <a href="https://uet.vnu.edu.vn/~thuyhq/">Prof. Quang-Thuy Ha</a> and working closely with <a href="https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en">Dr. Van-Quang Nguyen</a> on NLP and CV projects. I also have 2 years of experience in AI (with NLP, then CV and Data Science tasks). 
+I also spent two years in industry working on NLP, computer vision, and large-scale data science applications. In parallel, I maintained a strong interest in mathematics and participated in several mathematical competitions during high school and undergraduate studies.
 
 Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more information. 
 
-<font color="blue"><b>I am actively looking for an RA/RE position in Continual Learning/Optimization/Efficient Deep Learning this year, and preparing for 2027 PhD applications.</b></font>
+<!-- <font color="blue"><b>I am actively looking for an RA/RE position in Continual Learning/Optimization/Efficient Deep Learning this year, and preparing for 2027 PhD applications.</b></font> -->
+
+<font color="blue">
+I am actively looking for PhD positions in Continual Learning/Optimization/Efficient Deep Learning for both 2027 Spring and Fall.
+</font>
 
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my MBZUAI email is **cuong.pham** at **mbzuai.ac.ae**.
 
 
 
 # 🔥 News
+- *05.2026*: &nbsp; I obtained my degree (Master of Science in Machine Learning) at [MBZUAI](https://mbzuai.ac.ae/).
 - *04.2026*: &nbsp; I successfully defended my MS Thesis (Pass with minor revisions) at MBZUAI. Many thanks to my supervisors: [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath), [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth), and internal committee [Prof. Raul Astudillo](https://raulastudillo.netlify.app/).
 - *03.2026*: &nbsp; I attended [CPAL 2026](https://cpal.cc/) in Tübingen, Germany to present the poster and gave an oral presentation for my paper [*Learning in the Null Space: Small Singular Values for Continual Learning*](https://openreview.net/forum?id=ZFNMp3Zuo7#discussion). 
 - *08.2024*: &nbsp; I joined MBZUAI as a Master's student in Machine Learning (with full scholarship), and my supervisor for my MS is Prof. Samuel Horváth. 
 <!-- - *01.2024*: &nbsp; Upload my first-author short paper about Image Captioning for Vietnamese context based on my bachelor's thesis to Arxiv (<a href="https://arxiv.org/abs/2401.08100">link</a>). -->
-- *06.2023*: &nbsp; I graduated with High Distinction degree in Information Technology (Honors Program) from VNU University of Engineering and Technology. 
+- *06.2023*: &nbsp; I graduated with High Distinction Bachelor's degree in Information Technology (Honors Program) from VNU University of Engineering and Technology. 
 <!-- 🎉🎉 -->
 
 <!-- # 📝 Publications  -->
@@ -60,7 +66,7 @@ Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more informa
 # 📝 Publications 
 - [C.5] [**Learning in the Null Space: Small Singular Values for Continual Learning**](https://arxiv.org/abs/2602.21919).<br>
 **Cuong Anh Pham**, Praneeth Vepakomma, Samuel Horváth.<br>
-(CPAL '26, <font color="red"><b>Oral Presentation</b></font>)  &emsp; [[OpenReview]](https://openreview.net/forum?id=ZFNMp3Zuo7) [[Poster]](/pdf-viewer.html?file=cpal26/cpal26_poster.pdf) [[Slides]](/pdf-viewer.html?file=cpal26/cpal26_slides.pdf)
+(CPAL '26 - The Third Conference on Parsimony and Learning, <font color="red"><b>Oral Presentation</b></font>)  &emsp; [[OpenReview]](https://openreview.net/forum?id=ZFNMp3Zuo7) [[Poster]](/pdf-viewer.html?file=cpal26/cpal26_poster.pdf) [[Slides]](/pdf-viewer.html?file=cpal26/cpal26_slides.pdf)
 
 - [P.4] [**Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge**](https://arxiv.org/abs/2508.17288).<br>
 Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč, Slavomír Hanzely.<br>
@@ -93,7 +99,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Professional Experience
-- *10.2024 - current*, Graduate Research Assistant at [MBZUAI](https://mbzuai.ac.ae/), UAE.
+- *10.2024 - 05.2026*, Graduate Research Assistant at [MBZUAI](https://mbzuai.ac.ae/), UAE.
 - *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corporation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
 - *09.2021 - 09.2023*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
 - *05.2022 - 08.2023*, R&D Engineer at [GHTK JSC](https://www.linkedin.com/company/giaohangtietkiem-vn/), Vietnam.
@@ -101,8 +107,8 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 # 🔍 References
 - **Dr. Samuel Horvath**, Assistant Professor of Machine Learning at MBZUAI (UAE) [[Email]](mailto:samuel.horvath@mbzuai.ac.ae) [[Website]](https://sites.google.com/view/samuelhorvath)
 - **Dr. Praneeth Vepakomma**, Assistant Professor of Machine Learning at MBZUAI (UAE) and Visiting Professor at MIT IDSS [[Email]](mailto:vepakom@mit.edu) [[Website]](https://sites.mit.edu/praneeth/)
-- **Dr. Quang-Thuy Ha**, Associate Professor and Former Vice President at VNU-UET (Vietnam) [[Email]](mailto:thuyhq@vnu.edu.vn) [[Google Scholar]](https://scholar.google.com/citations?user=grsLl2wAAAAJ&hl=en)
-- **Dr. Van-Quang Nguyen**, Researcher at RIKEN AIP & Tohoku University (Japan) [[Email]](mailto:quang@vision.is.tohoku.ac.jp) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=qR180McAAAAJ)
+<!-- - **Dr. Quang-Thuy Ha**, Associate Professor and Former Vice President at VNU-UET (Vietnam) [[Email]](mailto:thuyhq@vnu.edu.vn) [[Google Scholar]](https://scholar.google.com/citations?user=grsLl2wAAAAJ&hl=en)
+- **Dr. Van-Quang Nguyen**, Researcher at RIKEN AIP & Tohoku University (Japan) [[Email]](mailto:quang@vision.is.tohoku.ac.jp) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=qR180McAAAAJ) -->
 
 
 
