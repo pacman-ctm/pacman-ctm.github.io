@@ -30,7 +30,7 @@ Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more informa
 <!-- <font color="blue"><b>I am actively looking for an RA/RE position in Continual Learning/Optimization/Efficient Deep Learning this year, and preparing for 2027 PhD applications.</b></font> -->
 
 <font color="blue">
-I am actively looking for PhD positions in Continual Learning/Optimization/Efficient Deep Learning for both 2027 Spring and Fall.
+I am actively looking for PhD position for both 2027 Spring and Fall.
 </font>
 
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my MBZUAI email is **cuong.pham** at **mbzuai.ac.ae**.
@@ -38,7 +38,7 @@ I am actively looking for PhD positions in Continual Learning/Optimization/Effic
 
 
 # 🔥 News
-- *05.2026*: &nbsp; I obtained my degree (Master of Science in Machine Learning) at [MBZUAI](https://mbzuai.ac.ae/).
+- *05.2026*: &nbsp; I obtained my degree (Master of Science in Machine Learning) at MBZUAI.
 - *04.2026*: &nbsp; I successfully defended my MS Thesis (Pass with minor revisions) at MBZUAI. Many thanks to my supervisors: [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath), [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth), and internal committee [Prof. Raul Astudillo](https://raulastudillo.netlify.app/).
 - *03.2026*: &nbsp; I attended [CPAL 2026](https://cpal.cc/) in Tübingen, Germany to present the poster and gave an oral presentation for my paper [*Learning in the Null Space: Small Singular Values for Continual Learning*](https://openreview.net/forum?id=ZFNMp3Zuo7#discussion). 
 - *08.2024*: &nbsp; I joined MBZUAI as a Master's student in Machine Learning (with full scholarship), and my supervisor for my MS is Prof. Samuel Horváth. 
