@@ -19,16 +19,13 @@ redirect_from:
 
 Hi, I am <strong>Cuong Pham</strong> (Vietnamese: [Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate)). I obtained my MS in Machine Learning at [MBZUAI](https://mbzuai.ac.ae/), where I worked with [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 
-My research focuses on **optimization** and **efficiency** for deep learning. In particular, I am interested in continual learning, parameter-efficient fine-tuning of LLMs, collaborative/federated learning, optimization. 
+**Research Interests:** My research focuses on **efficiency** and **optimization** for deep learning. In particular, I am interested in continual learning, parameter-efficient fine-tuning of LLMs, collaborative/federated learning, optimization. 
 
 During my MS, my work primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates. Before joining MBZUAI, I got my Honors BS in Information Technology from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/) in 2023, where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. 
 
 I also spent two years in industry working on NLP, computer vision, and large-scale data science applications. In parallel, I maintained a strong interest in mathematics and participated in several mathematical competitions during high school and undergraduate studies.
 
 Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more information. 
-
-<!-- <font color="blue"><b>I am actively looking for an RA/RE position in Continual Learning/Optimization/Efficient Deep Learning this year, and preparing for 2027 PhD applications.</b></font> -->
-
 <font color="blue">
 I am actively looking for PhD position for both 2027 Spring and Fall.
 </font>
