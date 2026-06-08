@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am <strong>Cuong Pham</strong> (Vietnamese: [Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate)). I obtained my MS in Machine Learning at [MBZUAI](https://mbzuai.ac.ae/), where I worked with [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
+Hi, I am <strong>Cuong Pham</strong> (Vietnamese: [Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate)). I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). Before that, I obtained my MS in Machine Learning at [MBZUAI](https://mbzuai.ac.ae/), where I worked with [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 
-**Research Interests:** My research focuses on **efficiency** and **optimization** for deep learning. In particular, I am interested in continual learning, parameter-efficient fine-tuning of LLMs, collaborative/federated learning, optimization. 
+**Research Interests:** My research focuses on **efficiency** and **optimization** for deep learning. In particular, I am interested in [continual learning](), [parameter-efficient fine-tuning of LLMs](), [collaborative/federated learning](), [optimization](). 
 
 During my MS, my work primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates. Before joining MBZUAI, I got my Honors BS in Information Technology from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/) in 2023, where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. 
 
