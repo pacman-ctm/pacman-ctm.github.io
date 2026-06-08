@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am <strong>Cuong Pham</strong> (Vietnamese: [Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate)). I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). Before that, I obtained my MS in Machine Learning at [MBZUAI](https://mbzuai.ac.ae/), where I worked with [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
+Hi, I am <strong>Cuong Pham</strong> (Vietnamese: [Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate)). I am a **Research Engineer** at [MBZUAI](https://mbzuai.ac.ae/), hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 
-**Research Interests:** My research focuses on **efficiency** and **optimization** for deep learning. In particular, I am interested in [continual learning](), [parameter-efficient fine-tuning of LLMs](), [collaborative/federated learning](), [optimization](). 
+**Research Interests:** My research focuses on **efficiency** and **optimization** for deep learning in general. In particular, my experience spans [continual learning](), [parameter-efficient fine-tuning of LLMs](), [collaborative/federated learning](), [optimization]().
 
-During my MS, my work primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates. Before joining MBZUAI, I got my Honors BS in Information Technology from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/) in 2023, where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. 
+I obtained my **MS in Machine Learning** from [MBZUAI](https://mbzuai.ac.ae/), with thesis primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
+Before joining MBZUAI, I got my **BS in Information Technology (Honors)** from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/) in 2023, where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. In parallel, I maintained a **strong passion for mathematics** and participated in several mathematical competitions during high school and undergraduate studies.
 
-I also spent two years in industry working on NLP, computer vision, and large-scale data science applications. In parallel, I maintained a strong interest in mathematics and participated in several mathematical competitions during high school and undergraduate studies.
+I also spent two years in industry working on NLP, computer vision, and large-scale data science applications. 
 
 Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more information. 
 <font color="blue">
@@ -35,6 +36,7 @@ I am actively looking for PhD position for both 2027 Spring and Fall.
 
 
 # 🔥 News
+- *06.2026*: &nbsp; I rejoined MBZUAI as a Research Engineer, hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth).
 - *05.2026*: &nbsp; I obtained my degree (Master of Science in Machine Learning) at MBZUAI.
 - *04.2026*: &nbsp; I successfully defended my MS Thesis (Pass with minor revisions) at MBZUAI. Many thanks to my supervisors: [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath), [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth), and internal committee [Prof. Raul Astudillo](https://raulastudillo.netlify.app/).
 - *03.2026*: &nbsp; I attended [CPAL 2026](https://cpal.cc/) in Tübingen, Germany to present the poster and gave an oral presentation for my paper [*Learning in the Null Space: Small Singular Values for Continual Learning*](https://openreview.net/forum?id=ZFNMp3Zuo7#discussion). 
@@ -96,6 +98,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Professional Experience
+- *06.2026 - now*, Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), UAE.
 - *10.2024 - 05.2026*, Graduate Research Assistant at [MBZUAI](https://mbzuai.ac.ae/), UAE.
 - *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corporation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
 - *09.2021 - 09.2023*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
