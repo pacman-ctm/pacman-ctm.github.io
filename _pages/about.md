@@ -21,8 +21,8 @@ Hi, I am <strong>Cuong Pham</strong> (Vietnamese: [Phạm Anh Cường](https://
 
 **Research Interests:** My research focuses on **efficiency** and **optimization** for deep learning in general. In particular, my experience spans [continual learning](), [parameter-efficient fine-tuning of LLMs](), [collaborative/federated learning](), [optimization]().
 
-I obtained my **MS in Machine Learning** from [MBZUAI](https://mbzuai.ac.ae/), with thesis primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
-Before joining MBZUAI, I got my **BS in Information Technology (Honors)** from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/) in 2023, where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. In parallel, I maintained a **strong passion for mathematics** and participated in several mathematical competitions during high school and undergraduate studies.
+I obtained my **MS in Machine Learning** from [MBZUAI](https://mbzuai.ac.ae/). My thesis primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
+Before joining MBZUAI, I got my **BS in Information Technology (Honors)** from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/), where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. In parallel, I maintained a **strong passion for mathematics** and participated in several mathematical competitions during high school and undergraduate studies.
 
 I also spent two years in industry working on NLP, computer vision, and large-scale data science applications. 
 
