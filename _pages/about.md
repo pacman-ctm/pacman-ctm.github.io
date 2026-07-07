@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am <strong>Cuong Pham</strong> (Vietnamese: [Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate)). I am a **Research Engineer** at [MBZUAI](https://mbzuai.ac.ae/), hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 
-**Research Interests:** My research focuses on **efficiency** and **optimization** for deep learning in general. In particular, my experience spans [continual learning](), [parameter-efficient fine-tuning of LLMs](), [collaborative/federated learning](), [optimization]().
+**Research Interests:** My research focuses broadly on **efficient and trustworthy deep learning**. In particular, my experience spans [continual learning](), [LLM misalignment](), [LLM parameter-efficient fine-tuning](), [collaborative/federated learning](), [optimization]().
 
 I obtained my **MS in Machine Learning** from [MBZUAI](https://mbzuai.ac.ae/). My thesis primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 Before joining MBZUAI, I got my **BS in Information Technology (Honors)** from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/), where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. In parallel, I maintained a **strong passion for mathematics** and participated in several mathematical competitions during high school and undergraduate studies.
@@ -36,7 +36,7 @@ I am actively looking for PhD position for both 2027 Spring and Fall.
 
 
 # 🔥 News
-- *06.2026*: &nbsp; I rejoined MBZUAI as a Research Engineer, hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth).
+- *06.2026*: &nbsp; I rejoined MBZUAI as a Machine Learning Research Engineer hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth), and I will work in Trustworthy AI.
 - *05.2026*: &nbsp; I obtained my degree (Master of Science in Machine Learning) at MBZUAI.
 - *04.2026*: &nbsp; I successfully defended my MS Thesis (Pass with minor revisions) at MBZUAI. Many thanks to my supervisors: [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath), [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth), and internal committee [Prof. Raul Astudillo](https://raulastudillo.netlify.app/).
 - *03.2026*: &nbsp; I attended [CPAL 2026](https://cpal.cc/) in Tübingen, Germany to present the poster and gave an oral presentation for my paper [*Learning in the Null Space: Small Singular Values for Continual Learning*](https://openreview.net/forum?id=ZFNMp3Zuo7#discussion). 

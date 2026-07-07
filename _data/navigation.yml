@@ -1,31 +1,31 @@
 # main links links
 main:
+  # - title: "About Me"
+  #   url: "/#about-me"
+  # - title: "CV"
+  #   url: "/pdf-viewer.html?file=cv.pdf"
+  #   navigation: true
+  # - title: "CV of Failures"
+  #   url: "/pdf-viewer.html?file=cv_failures.pdf"
+  #   navigation: true  
+  # - title: "Misc."
+  #   url: "/misc"
+  #   navigation: false
+
   - title: "About Me"
     url: "/#about-me"
+
   - title: "CV"
-    url: "/pdf-viewer.html?file=cv.pdf"
+    url: "/pdf/cv.pdf"
     navigation: true
+
   - title: "CV of Failures"
-    url: "/pdf-viewer.html?file=cv_failures.pdf"
+    url: "/pdf/cv_failures.pdf"
     navigation: true  
+
   - title: "Misc."
     url: "/misc"
     navigation: false
-
-#   - title: "About Me"
-#     url: "/#about-me"
-
-#   - title: "CV"
-#     url: "/pdf/cv.pdf"
-#     navigation: true
-
-#   - title: "CV of Failures"
-#     url: "/pdf/cv_failures.pdf"
-#     navigation: true  
-
-#   - title: "Misc."
-#     url: "/misc"
-#     navigation: false
 
 
   # - title: "News"
