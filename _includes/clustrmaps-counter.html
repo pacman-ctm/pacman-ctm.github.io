@@ -1,4 +1,28 @@
-<!-- ClustrMaps global counter (fires on every page) -->
+<!-- MapMyVisitors global counter (fires on every page) -->
+<div style="display:none;">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=QTxr5pjXKYjkms-OqKjcN2pEF7rYZUpDkjTs7-0jP5c&cl=ffffff&w=a"></script>
+</div>
+
+<!-- Track PDF clicks -->
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+    // Find all PDF links
+    var pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
+    
+    pdfLinks.forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        // Fire MapMyVisitors counter
+        if (typeof mapmyvisitors !== 'undefined') {
+          // Trigger the counter (this simulates a page view)
+          var img = new Image();
+          img.src = 'https://mapmyvisitors.com/map.js?d=QTxr5pjXKYjkms-OqKjcN2pEF7rYZUpDkjTs7-0jP5c&cl=ffffff&w=a';
+        }
+      });
+    });
+  });
+</script>
+
+<!-- ClustrMaps global counter (fires on every page)
 <div style="display:none;">
   <script type="text/javascript" id="clustrmaps"
     src="https://clustrmaps.com/map_v2.js?d=d6uRUBCk1WnZoZmOy0g4RyPNManqNTP3GXfRveHzvL8&cl=ffffff&w=a">
@@ -6,7 +30,7 @@
 </div>
 
 <!-- Track PDF clicks -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   document.addEventListener('DOMContentLoaded', function() {
     // Find all PDF links
     var pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
@@ -22,4 +46,4 @@
       });
     });
   });
-</script>
+</script> -->
