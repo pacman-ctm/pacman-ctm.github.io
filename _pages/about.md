@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am <strong>Cuong Pham</strong> (Vietnamese: [Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate)). I am a **Research Engineer** at [MBZUAI](https://mbzuai.ac.ae/), hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
+Hi, I am <strong>Cuong Pham</strong> ([Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate) in Vietnamese). I am a **Research Engineer** at [MBZUAI](https://mbzuai.ac.ae/), hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 
-**Research Interests:** My research focuses broadly on **efficient and trustworthy deep learning**. In particular, my experience spans [continual learning](), [LLM misalignment](), [LLM parameter-efficient fine-tuning](), [collaborative/federated learning](), [optimization]().
+**Research Interests:** My research focuses broadly on **efficient and trustworthy deep learning**, with prior work
+in *continual learning*, *low-rank* and *parameter-efficient fine-tuning*, *federated learning*, and *optimization*. Currently I am working on *uncertainty-aware LoRA fine-tuning* across multiple downstream tasks, with broader interests in *misalignment under LLM adaptation*.
 
 I obtained my **MS in Machine Learning** from [MBZUAI](https://mbzuai.ac.ae/). My thesis primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 Before joining MBZUAI, I got my **BS in Information Technology (Honors)** from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/), where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. In parallel, I maintained a **strong passion for mathematics** and participated in several mathematical competitions during high school and undergraduate studies.
@@ -34,6 +35,9 @@ I am actively looking for PhD position for both 2027 Spring and Fall.
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my MBZUAI email is **cuong.pham** at **mbzuai.ac.ae**.
 
 
+# 📖 Education
+- *08.2024 - 05.2026*, **MS in Machine Learning**, Mohamed bin Zayed University of Artificial Intelligence (UAE). 
+- *08.2019 - 06.2023*, **BS in Information Technology (Honors Program)**, VNU University of Engineering and Technology (Vietnam). 
 
 # 🔥 News
 - *06.2026*: &nbsp; I rejoined MBZUAI as a Machine Learning Research Engineer hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth), working in Trustworthy AI.
@@ -65,15 +69,15 @@ I am actively looking for PhD position for both 2027 Spring and Fall.
 # 📝 Publications 
 - [C.5] [**Learning in the Null Space: Small Singular Values for Continual Learning**](https://arxiv.org/abs/2602.21919).<br>
 **Cuong Anh Pham**, Praneeth Vepakomma, Samuel Horváth.<br>
-(CPAL '26 - The Third Conference on Parsimony and Learning, <font color="red"><b>Oral Presentation</b></font>)  &emsp; [[OpenReview]](https://openreview.net/forum?id=ZFNMp3Zuo7) [[Poster]](/pdf-viewer.html?file=cpal26/cpal26_poster.pdf) [[Slides]](/pdf-viewer.html?file=cpal26/cpal26_slides.pdf)
+(CPAL '26 - The Third Conference on Parsimony and Learning, <font color="red">Oral Presentation</font>)  &emsp; [[OpenReview]](https://openreview.net/forum?id=ZFNMp3Zuo7) [[Poster]](/pdf-viewer.html?file=cpal26/cpal26_poster.pdf) [[Slides]](/pdf-viewer.html?file=cpal26/cpal26_slides.pdf)
 
 - [P.4] [**Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge**](https://arxiv.org/abs/2508.17288).<br>
 Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč, Slavomír Hanzely.<br>
-(preprint '25, under-review draft)
+(preprint '25)
 
 - [P.3] [**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**](https://arxiv.org/abs/2505.00831) <br>
 Quang P.M. Pham, Khoi T. N. Nguyen, Nhi H. Doan, **Cuong A. Pham**, Qinbo Sun, Weimin Qi, Kentaro Inui, Dezhen Song <br> 
-(preprint '25, under-review draft)
+(preprint '25)
 
 - [P.2] [**KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain**](https://arxiv.org/abs/2401.08100) <br>
 **Anh-Cuong Pham**, Van-Quang Nguyen, Thi-Hong Vuong, Quang-Thuy Ha <br>
@@ -87,18 +91,15 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 
 - *06.2024*, Fully-funded Master's scholarship at MBZUAI. 
 - *2021-2023*, Third Prizes (#5 Linear Algebra 2021, #6 Linear Algebra 2022, #5 Linear Algebra 2023) in VNU-UET Mathematics Olympiad. I was also #7 Calculus in the 2022 competition, but there were only prizes for top 6.
-- *01.2019*, Participation in the national Vietnam Mathematical Olympiad 2019 (representing Nghe An province, and was ranked ~#250/600 national). 
+- *01.2019*, Participation in the national Vietnam Mathematical Olympiad 2019 (1 of 10 students representing Nghe An province, and was ranked ~#250/600 national). 
 
-# 📖 Education
-- *08.2024 - 05.2026*, MS in Machine Learning, Mohamed bin Zayed University of Artificial Intelligence (UAE). 
-- *08.2019 - 06.2023*, BS in Information Technology (Honors Program), VNU University of Engineering and Technology (Vietnam). 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Professional Experience
-- *06.2026 - now*, Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), UAE.
+- *06.2026 - now*, Research Engineer in Machine Learning at [MBZUAI](https://mbzuai.ac.ae/), UAE.
 - *10.2024 - 05.2026*, Graduate Research Assistant at [MBZUAI](https://mbzuai.ac.ae/), UAE.
 - *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corporation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
 - *09.2021 - 09.2023*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
