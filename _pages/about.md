@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am <strong>Cuong Pham</strong> ([Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate) in Vietnamese). I am a **Research Engineer** at [MBZUAI](https://mbzuai.ac.ae/), hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
+<!-- Hi, I am <strong>Cuong Pham</strong> ([Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate) in Vietnamese). I am a **Research Engineer** at [MBZUAI](https://mbzuai.ac.ae/), hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). I study efficient fine-tuning of foundation models and how to evaluate the reliability of their downstream behavior, with current work on low-rank adaptation and uncertainty quantification. My earlier research examined continual learning through orthogonal low-rank updates.
 
 **Research Interests:** My research focuses broadly on **efficient and trustworthy deep learning**, with prior work
 in *continual learning*, *low-rank* and *parameter-efficient fine-tuning*, *federated learning*, and *optimization*. Currently I am working on *uncertainty-aware LoRA fine-tuning* across multiple downstream tasks, with broader interests in *misalignment under LLM adaptation*.
@@ -25,7 +25,13 @@ in *continual learning*, *low-rank* and *parameter-efficient fine-tuning*, *fede
 I obtained my **MS in Machine Learning** from [MBZUAI](https://mbzuai.ac.ae/). My thesis primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 Before joining MBZUAI, I got my **BS in Information Technology (Honors)** from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/), where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. In parallel, I maintained a **strong passion for mathematics** and participated in several mathematical competitions during high school and undergraduate studies.
 
-I also spent two years in industry working on NLP, computer vision, and large-scale data science applications. 
+I also spent two years in industry working on NLP, computer vision, and large-scale data science applications.  -->
+
+Hi, I am <strong>Cuong Pham</strong> ([Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate) in Vietnamese). I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working on uncertainty-aware LoRA fine-tuning for downstream tasks, hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
+
+My research interests focus on **efficient and trustworthy deep learning**, particularly in *(i) training and fine-tuning models efficiently*, and *(ii) assessing the reliability of model after adaptation to different downstream tasks*.
+
+I obtained my MS in Machine Learning from [MBZUAI](https://mbzuai.ac.ae/). My thesis studied orthogonal-based continual learning, using LoRA-style updates lie on approximate null spaces estimated from small singular values to reduce forgetting, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). Before that, I had experience (included two years in industry) working on NLP, computer vision, and large-scale data science. I also maintain a strong passion for mathematics.
 
 Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more information. 
 <font color="blue">
@@ -87,6 +93,13 @@ Quang P.M. Pham, Khoi T. N. Nguyen, Nhi H. Doan, **Cuong A. Pham**, Qinbo Sun, W
 Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 (IEEE RIVF '22)
 
+# 💻 Professional Experience
+- *06.2026 - now*, Research Engineer in Machine Learning at [MBZUAI](https://mbzuai.ac.ae/), UAE.
+- *10.2024 - 05.2026*, Graduate Research Assistant at [MBZUAI](https://mbzuai.ac.ae/), UAE.
+- *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corporation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
+- *09.2021 - 09.2023*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
+- *05.2022 - 08.2023*, R&D Engineer at [GHTK JSC](https://www.linkedin.com/company/giaohangtietkiem-vn/), Vietnam.
+
 # 🎖 Honors
 
 - *06.2024*, Fully-funded Master's scholarship at MBZUAI. 
@@ -98,12 +111,6 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Professional Experience
-- *06.2026 - now*, Research Engineer in Machine Learning at [MBZUAI](https://mbzuai.ac.ae/), UAE.
-- *10.2024 - 05.2026*, Graduate Research Assistant at [MBZUAI](https://mbzuai.ac.ae/), UAE.
-- *10.2023 - 07.2024*, Data Scientist at [Viettel Networks Corporation - Viettel Group](https://www.linkedin.com/company/viettel-network/), Vietnam.
-- *09.2021 - 09.2023*, Student Research Intern at [DSKT Laboratory](https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/) of VNU University of Engineering and Technology, Vietnam.
-- *05.2022 - 08.2023*, R&D Engineer at [GHTK JSC](https://www.linkedin.com/company/giaohangtietkiem-vn/), Vietnam.
 
 # 🔍 References
 - **Dr. Samuel Horvath**, Assistant Professor of Machine Learning at MBZUAI (UAE) [[Email]](mailto:samuel.horvath@mbzuai.ac.ae) [[Website]](https://sites.google.com/view/samuelhorvath)
