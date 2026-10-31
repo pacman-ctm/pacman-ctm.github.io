@@ -19,7 +19,11 @@ redirect_from:
 
 Hi, I am <strong>Cuong Pham</strong> ([Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate) in Vietnamese). I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working on uncertainty-aware LoRA fine-tuning for downstream tasks, hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 
-My research interests focus on **efficient and trustworthy deep learning**, particularly in *(i) training and fine-tuning models efficiently*, and *(ii) assessing the reliability of model after adaptation for different downstream tasks*. My long-term goal is to learn latent representations that can be generalized across different applications.
+My research interests focus on **efficient and trustworthy deep learning**, particularly in:
+- (i) training and fine-tuning models efficiently
+- (ii) assessing the reliability of model after adaptation for different downstream tasks. 
+
+My long-term goal is to learn latent representations that can be generalized across different applications.
 
 For my background, I obtained my MS in Machine Learning from [MBZUAI](https://mbzuai.ac.ae/). My thesis studied continual learning from constrained optimization perspective, using LoRA-style updates lie on approximate null spaces estimated from small singular values to reduce forgetting, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). Before that, I had experience (included two years in industry) working on NLP, computer vision, and large-scale data science. I also maintain a strong passion for mathematics.
 
