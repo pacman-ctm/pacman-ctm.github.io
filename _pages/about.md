@@ -17,25 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- Hi, I am <strong>Cuong Pham</strong> ([Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate) in Vietnamese). I am a **Research Engineer** at [MBZUAI](https://mbzuai.ac.ae/), hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). I study efficient fine-tuning of foundation models and how to evaluate the reliability of their downstream behavior, with current work on low-rank adaptation and uncertainty quantification. My earlier research examined continual learning through orthogonal low-rank updates.
-
-**Research Interests:** My research focuses broadly on **efficient and trustworthy deep learning**, with prior work
-in *continual learning*, *low-rank* and *parameter-efficient fine-tuning*, *federated learning*, and *optimization*. Currently I am working on *uncertainty-aware LoRA fine-tuning* across multiple downstream tasks, with broader interests in *misalignment under LLM adaptation*.
-
-I obtained my **MS in Machine Learning** from [MBZUAI](https://mbzuai.ac.ae/). My thesis primarily explored efficient continual training/fine-tuning through orthogonal-based methods with low-rank updates, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
-Before joining MBZUAI, I got my **BS in Information Technology (Honors)** from [VNU-UET, Vietnam](https://uet.vnu.edu.vn/en/), where I worked with [Prof. Quang-Thuy Ha](https://uet.vnu.edu.vn/~thuyhq/) and [Dr. Van-Quang Nguyen](https://scholar.google.de/citations?user=qR180McAAAAJ&hl=en) on NLP and computer vision projects. In parallel, I maintained a **strong passion for mathematics** and participated in several mathematical competitions during high school and undergraduate studies.
-
-I also spent two years in industry working on NLP, computer vision, and large-scale data science applications.  -->
-
 Hi, I am <strong>Cuong Pham</strong> ([Phạm Anh Cường](https://translate.google.com/?sl=vi&tl=en&text=Ph%E1%BA%A1m%20Anh%20C%C6%B0%E1%BB%9Dng&op=translate) in Vietnamese). I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working on uncertainty-aware LoRA fine-tuning for downstream tasks, hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 
-My research interests focus on **efficient and trustworthy deep learning**, particularly in *(i) training and fine-tuning models efficiently*, and *(ii) assessing the reliability of model after adaptation to different downstream tasks*.
+My research interests focus on **efficient and trustworthy deep learning**, particularly in *(i) training and fine-tuning models efficiently*, and *(ii) assessing the reliability of model after adaptation for different downstream tasks*. My long-term goal is to learn latent representations that can be generalized across different applications.
 
-I obtained my MS in Machine Learning from [MBZUAI](https://mbzuai.ac.ae/). My thesis studied orthogonal-based continual learning, using LoRA-style updates lie on approximate null spaces estimated from small singular values to reduce forgetting, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). Before that, I had experience (included two years in industry) working on NLP, computer vision, and large-scale data science. I also maintain a strong passion for mathematics.
+For my background, I obtained my MS in Machine Learning from [MBZUAI](https://mbzuai.ac.ae/). My thesis studied continual learning from constrained optimization perspective, using LoRA-style updates lie on approximate null spaces estimated from small singular values to reduce forgetting, supervised by [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath) and [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). Before that, I had experience (included two years in industry) working on NLP, computer vision, and large-scale data science. I also maintain a strong passion for mathematics.
 
 Please take a look at my [**CV**](/pdf-viewer.html?file=cv.pdf) for more information. 
 <font color="blue">
-I am actively looking for PhD position for both 2027 Spring and Fall.
+I am actively looking for PhD position in 2027 Fall.
 </font>
 
 **For contact:** My personal email is **phamanhcuongvna2511** at **gmail.com**, and my MBZUAI email is **cuong.pham** at **mbzuai.ac.ae**.
@@ -46,7 +36,7 @@ I am actively looking for PhD position for both 2027 Spring and Fall.
 - *08.2019 - 06.2023*, **BS in Information Technology (Honors Program)**, VNU University of Engineering and Technology (Vietnam). 
 
 # 🔥 News
-- *06.2026*: &nbsp; I rejoined MBZUAI as a Machine Learning Research Engineer hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth), working in Trustworthy AI.
+- *06.2026*: &nbsp; I rejoined MBZUAI as a Machine Learning Research Engineer hosted by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth), working on Trustworthy AI.
 - *05.2026*: &nbsp; I obtained my degree (Master of Science in Machine Learning) at MBZUAI.
 - *04.2026*: &nbsp; I successfully defended my MS Thesis (Pass with minor revisions) at MBZUAI. Many thanks to my supervisors: [Prof. Samuel Horváth](https://sites.google.com/view/samuelhorvath), [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth), and internal committee [Prof. Raul Astudillo](https://raulastudillo.netlify.app/).
 - *03.2026*: &nbsp; I attended [CPAL 2026](https://cpal.cc/) in Tübingen, Germany to present the poster and gave an oral presentation for my paper [*Learning in the Null Space: Small Singular Values for Continual Learning*](https://openreview.net/forum?id=ZFNMp3Zuo7#discussion). 
@@ -75,7 +65,7 @@ I am actively looking for PhD position for both 2027 Spring and Fall.
 # 📝 Publications 
 - [C.5] [**Learning in the Null Space: Small Singular Values for Continual Learning**](https://arxiv.org/abs/2602.21919).<br>
 **Cuong Anh Pham**, Praneeth Vepakomma, Samuel Horváth.<br>
-(CPAL '26 - The Third Conference on Parsimony and Learning, <font color="red">Oral Presentation</font>)  &emsp; [[OpenReview]](https://openreview.net/forum?id=ZFNMp3Zuo7) [[Poster]](/pdf-viewer.html?file=cpal26/cpal26_poster.pdf) [[Slides]](/pdf-viewer.html?file=cpal26/cpal26_slides.pdf)
+(CPAL '26 - The Third Conference on Parsimony and Learning, <font color="red">Oral Presentation</font>)  &emsp; [[OpenReview]](https://openreview.net/forum?id=ZFNMp3Zuo7) [[Poster]](/pdf-viewer.html?file=cpal26/cpal26_poster.pdf) [[Slides]](/pdf-viewer.html?file=cpal26/cpal26_slides.pdf) [[**Thesis @MBZUAI**]](https://irep.mbzuai.ac.ae/items/067f4a2b-6fd1-47f1-a49b-a22f7fda1b4c)
 
 - [P.4] [**Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge**](https://arxiv.org/abs/2508.17288).<br>
 Farshed Abdukhakimov, **Cuong Anh Pham**, Samuel Horváth, Martin Takáč, Slavomír Hanzely.<br>
@@ -113,7 +103,7 @@ Quynh-Trang Pham Thi, **Anh-Cuong Pham**, Ngoc-Huyen Ngo and Duc-Trong Le <br>
 
 
 # 🔍 References
-- **Dr. Samuel Horvath**, Assistant Professor of Machine Learning at MBZUAI (UAE) [[Email]](mailto:samuel.horvath@mbzuai.ac.ae) [[Website]](https://sites.google.com/view/samuelhorvath)
+- **Dr. Samuel Horváth**, Assistant Professor of Machine Learning at MBZUAI (UAE) [[Email]](mailto:samuel.horvath@mbzuai.ac.ae) [[Website]](https://sites.google.com/view/samuelhorvath)
 - **Dr. Praneeth Vepakomma**, Assistant Professor of Machine Learning at MBZUAI (UAE) and Visiting Professor at MIT IDSS [[Email]](mailto:vepakom@mit.edu) [[Website]](https://sites.mit.edu/praneeth/)
 
 
